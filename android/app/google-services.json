@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43172199274",
+    "project_id": "armech-nelayango-pos",
+    "storage_bucket": "armech-nelayango-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43172199274:android:5f1726e8dcc044065b8313",
+        "android_client_info": {
+          "package_name": "com.armechatronics.nelayango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43172199274-folm8qiqed50f2ep550o86rmrj7jqbho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQ1k-PRtqNEYlQrVOFdghBYsWKAlpu2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43172199274-folm8qiqed50f2ep550o86rmrj7jqbho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
